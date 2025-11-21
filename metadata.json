@@ -1,0 +1,7 @@
+{
+  "name": "LinguaGen AI",
+  "description": "Une application immersive pour apprendre l'anglais assistée par l'IA, avec chat conversationnel, leçons générées dynamiquement, dictionnaire visuel et prononciation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
