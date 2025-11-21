@@ -17,7 +17,7 @@ export const Navigation: React.FC<NavigationProps> = ({ currentView, setView }) 
   return (
     <nav className="fixed bottom-0 left-0 w-full bg-white border-t border-gray-200 md:relative md:w-64 md:h-screen md:border-t-0 md:border-r md:flex md:flex-col shadow-lg z-50">
       <div className="hidden md:flex items-center justify-center h-20 border-b border-gray-100">
-        <h1 className="text-2xl font-bold text-indigo-600">LinguaGen AI</h1>
+        <h1 className="text-2xl font-bold text-indigo-600">Anglais Facile</h1>
       </div>
       <ul className="flex flex-row justify-around md:flex-col md:justify-start md:p-4 md:space-y-2">
         {navItems.map((item) => (
